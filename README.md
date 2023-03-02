@@ -1,4 +1,4 @@
-# Project Title
+# Project Aim - Analyzing Indian Startup EcoSystem
 
 This project is to understand some of the most interesting patterns of funding and startups in India. I have used startups funding data from 2015 to 2020. These are some key questions that we can ask from the datset. 
 
